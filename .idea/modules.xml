@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/PracticeQuestionJPA/PracticeQuestionJPA.iml" filepath="$PROJECT_DIR$/PracticeQuestionJPA/PracticeQuestionJPA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/PracticeQuestionJPA-master.iml" filepath="$PROJECT_DIR$/.idea/PracticeQuestionJPA-master.iml" />
-    </modules>
-  </component>
-</project>
